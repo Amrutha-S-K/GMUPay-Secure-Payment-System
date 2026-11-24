@@ -1,0 +1,6 @@
+{
+  "name": "GMUpay",
+  "description": "A secure GPay-inspired Smart Digital Payment and Expense Categorization application with automatic transaction categorization, smart budgets, and interactive financial analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
